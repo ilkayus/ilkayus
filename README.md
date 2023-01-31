@@ -5,4 +5,4 @@
 
 - 📫 Reach me at **ilkay.devecioglu@gmail.com**
 
-- <a href="https://linkedin.com/in/ilkay-devecioglu" target="blank">Connect with me in Linkedin</a>
+- <a href="https://linkedin.com/in/ilkay-devecioglu" target="_blank">Connect with me in Linkedin</a>
