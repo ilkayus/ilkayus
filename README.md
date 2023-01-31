@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ilkay</h1>
+<h1>Hi 👋, I'm İlkay</h1>
 <h3>A software engineer.</h3>
 
 - 👨‍💻 Here is my <a href="https://ilkayd.dev" target="_blank">portfolio website</a>
